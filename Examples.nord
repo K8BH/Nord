@@ -1,0 +1,23 @@
+bolo "welcome to nord"
+
+let age = 15
+
+if age == 15 {
+
+    print "access granted"
+
+}
+
+function greet() {
+
+    print "hello from function"
+
+}
+
+greet()
+
+repeat 3 {
+
+    echo "loop running"
+
+}
