@@ -1,11 +1,26 @@
 {
   "name": "nord-language",
   "version": "2.0.0",
+  "description": "Multilingual programming language playground",
   "main": "Server.js",
+  "type": "commonjs",
   "scripts": {
-    "start": "node Server.js"
+    "start": "node Server.js",
+    "dev": "node Server.js"
   },
+  "keywords": [
+    "compiler",
+    "language",
+    "interpreter",
+    "hinglish",
+    "javascript",
+    "python",
+    "education",
+    "programming-language"
+  ],
+  "author": "K8BH",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.22.2"
   }
 }
